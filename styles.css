@@ -68,7 +68,7 @@
 
 #hero::after {
     content: "";
-    background-image: url(/ejercicio2/images/curveGray.svg);
+    background-image: url(/hack-analytics/images/curveGray.svg);
     width: 100%;
     height: 40px;
     position: absolute;
@@ -163,7 +163,7 @@
 
 #newsSection::before {
     content: "";
-    background-image: url(/ejercicio2/images/curveBlack.svg);
+    background-image: url(/hack-analytics/images/curveBlack.svg);
     width: 100%;
     height: 40px;
     position: absolute;
