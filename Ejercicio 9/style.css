@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.checked {
+    font-size: 0.7rem;
+}
+
+.unchecked {
+    font-size: 0.7rem;
+    color: gray;
+}
+
+.page{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#badgeStandard {
+    background-color: rgb(159, 200, 255);
+    color: rgb(0, 119, 255);
+}
+
+#badgeFree {
+    color: black;
+}
+
+#badgePremium {
+    background-color: rgb(222, 186, 255);
+    color: blueviolet;
+}
+
+#midCol {
+    flex-direction: column;
+}
+
+#checkImg {
+    width: 15px;
+}
+
+#uncheckImg {
+    width: 15px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.btn{
+    background-color: orangered;
+    width: 100px;
+    height: 40px;  
+}
+
+#leftCol {
+    flex-direction: column;
+}
+
+#midCol{
+    background-color: white;
+    position: relative;
+    z-index: 10;
+}
+
+#rightCol{
+    flex-direction: column;
+}
